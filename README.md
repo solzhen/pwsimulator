@@ -1,2 +1,2 @@
 # pwsimulator
-A pro wrestling simulator
+A bad pro wrestling simulator using MERN stack
